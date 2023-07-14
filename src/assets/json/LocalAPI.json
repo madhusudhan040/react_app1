@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Madhusudhan",
+            "email": "madhusudhan@gmail.com",
+            "phone": "123456789-1"
+        },
+        {
+            "id": 2,
+            "name": "Madhusudhan2",
+            "email": "madhusudhan2@gmail.com",
+            "phone": "123456789-2"
+        },
+        {
+            "id": 3,
+            "name": "Madhusudhan3",
+            "email": "madhusudhan3@gmail.com",
+            "phone": "123456789-3"
+        },
+        {
+            "id": 4,
+            "name": "Madhusudhan4",
+            "email": "madhusudhan4@gmail.com",
+            "phone": "123456789-4"
+        },
+        {
+            "id": 5,
+            "name": "Madhusudhan5",
+            "email": "madhusudhan5@gmail.com",
+            "phone": "123456789-5"
+        }
+    ],
+    "bookings": [
+        {
+            "sno": "1",
+            "booking-date": "20-04-2022",
+            "product-name": "samsung"
+        },
+        {
+            "sno": "2",
+            "booking-date": "19-04-2022",
+            "product-name": "oppo"
+        },
+        {
+            "sno": "3",
+            "booking-date": "18-04-2022",
+            "product-name": "vivo"
+        },
+        {
+            "sno": "4",
+            "booking-date": "17-04-2022",
+            "product-name": "realme"
+        },
+        {
+            "sno": "5",
+            "booking-date": "16-04-2022",
+            "product-name": "red-mi"
+        }
+    ],
+    "admin": [
+        {
+            "sno": 1,
+            "name": "Madhusudhan",
+            "mobile": "123456789-1"
+        },
+        {
+            "sno": 2,
+            "name": "Madhusudhan2",
+            "mobile": "123456789-2"
+        },
+        {
+            "sno": 3,
+            "name": "Madhusudhan3",
+            "mobile": "123456789-3"
+        },
+        {
+            "sno": 4,
+            "name": "Madhusudhan4",
+            "mobile": "123456789-4"
+        },
+        {
+            "sno": 5,
+            "name": "Madhusudhan5",
+            "mobile": "123456789-5"
+        }
+    ]
+}

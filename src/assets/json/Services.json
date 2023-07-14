@@ -1,0 +1,33 @@
+[
+    {
+        "icon":"faSuitcase ",
+        "title":"Lorem Ipsum",
+        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+    },
+    {
+        "icon":"faCofee ",
+        "title":"Dolor Sitema",
+        "description":"Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata"
+    },
+    {
+        "icon":"fa-light fa-suitcase ",
+        "title":"Sed ut perspiciatis",
+        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+    },
+    {
+        "icon":"fa-light fa-suitcase ",
+        "title":"Nemo Enim",
+        "description":"Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata"
+    },
+    {
+        "icon":"fa-light fa-suitcase ",
+        "title":"Eiusmod Tempors",
+        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+    },
+    {
+        "icon":"fa-light fa-suitcase ",
+        "title":"Magni Dolore",
+        "description":"Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata"
+    }
+
+]
